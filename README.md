@@ -62,7 +62,7 @@ project/
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone (https://github.com/mounishallu05/RealEstateForecaster/blob/main/README.md)
 cd house-price-prediction
 ```
 
@@ -150,10 +150,6 @@ python notebooks/data_exploration.py
 ```
 
 This generates visualizations and a summary of the data in `notebooks/plots/`.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
 
